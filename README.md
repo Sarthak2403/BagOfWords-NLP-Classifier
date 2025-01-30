@@ -30,8 +30,8 @@ The datasets are preprocessed and split into training and testing sets using `tr
 ## 🛠 Installation & Setup
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/bag-of-words-nlp.git
-cd bag-of-words-nlp
+gh repo clone Sarthak2403/BagOfWords-NLP-Classifier
+cd BagOfWords-NLP-Classifier
 ```
 
 ### 2️⃣ Install Dependencies
